@@ -1,0 +1,11 @@
+# IDE
+.vs/
+cpp.hint
+
+# SCons
+.sconsign.dblite
+
+# Build Artifacts
+*/*.obj
+demo/
+*/bin/
