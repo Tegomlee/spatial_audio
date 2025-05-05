@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://dppmdwqi40dr5"]
+
+[node name="SpatialAudioPlayer3D" type="SpatialAudioPlayer3D"]
